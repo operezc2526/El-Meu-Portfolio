@@ -146,8 +146,7 @@ Quan un procedure cridava un `INSERT` i un trigger associat modificava dades, el
 
 **Passos:**
 1. Importa la base de dades del Football Manager
-2. Executa `sql/procedures.sql` per crear tots els procedures
-3. Executa `sql/triggers.sql` per crear tots els triggers
+2. Executa `oriol_perez_triggers_procedures_fm.sql` per crear tots els procedures
 4. Prova els procedures amb: `CALL nom_procedure(parametres);`
 
 ---
