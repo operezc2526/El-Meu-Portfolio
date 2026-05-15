@@ -144,4 +144,4 @@ piedra_papel_tijeras/
 
 ---
 
-*Curs 2024-2025 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
+*Curs 2025-2026 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
