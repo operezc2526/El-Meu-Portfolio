@@ -104,25 +104,6 @@ En intentar executar el JAR des de la terminal de Windows sortia l'error "java n
 
 ---
 
-## 🗂️ Estructura del projecte
-piedra_papel_tijeras/
-├── src/
-│   ├── main/Main.java
-│   ├── model/Partida.java
-│   ├── view/MenuNom.java
-│   ├── view/JocFrame.java
-│   ├── controller/JocController.java
-│   ├── database/DBManager.java
-│   └── utils/Constants.java
-├── resources/
-│   └── db/dandandish.sql
-├── lib/
-│   └── mysql-connector-j-9.7.0.jar
-├── test/
-│   └── PartidaTest.java
-└── README.md
----
-
 ## ▶️ Instruccions per executar
 
 **Requisits:**
