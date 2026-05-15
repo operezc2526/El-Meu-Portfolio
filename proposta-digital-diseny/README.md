@@ -158,9 +158,9 @@ Les icones de les tres accions (SHOOT, RELOAD, SHIELD) es mostraven com a icones
 
 ## 🔗 Enllaços
 
-- **Figma:** [Veure disseny a Figma](https://figma.com)
-- **Manual d'identitat:** disponible a la carpeta `manual-identitat/`
+- **Figma:** [Veure disseny a Figma](https://www.figma.com/make/8QjshUA4V65slIc9hRJCDS/MANUAL-D-IDENTITAT-CORPORATIVA-DDD?t=CwO53BJrIwq30YVg-20&fullscreen=1)
+- **Manual d'identitat:** [Veure disseny a Figma](https://www.figma.com/make/sEzBPdLBB20e0G8VPJiObm/PROTOTIP-LANDING-PAGE-DDD?t=iN5yIB8DZCPX7vF8-20&fullscreen=1)
 
 ---
 
-*Curs 2024-2025 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
+*Curs 2025-2026 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
