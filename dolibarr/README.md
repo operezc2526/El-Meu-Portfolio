@@ -97,4 +97,4 @@ Per defecte Dolibarr no té un mòdul específic per a animals — gestiona cont
 
 ---
 
-*Curs 2024-2025 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
+*Curs 2025-2026 · Desenvolupament d'Aplicacions Multiplataforma · Centre d'Estudis Politècnics*
